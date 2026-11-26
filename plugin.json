@@ -1,0 +1,13 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "saxophone-society",
+  "version": "0.4.0",
+  "description": "Saxophon lernen als Erwachsener: Programme, Ratgeber und Griffe der Saxophone Society mit Quellen, dazu das kostenlose Erstgespräch als Vormerkung, die die Person per Mail bestätigt.",
+  "author": {
+    "name": "Marjan Markelj",
+    "url": "https://marjanmarkelj.de/ueber-marjan/"
+  },
+  "homepage": "https://marjanmarkelj.de/ki-dokumentation/",
+  "repository": "https://github.com/MarjanMarkelj/saxophone-society-agents",
+  "keywords": ["saxophone", "saxophon", "music-education", "mcp", "skill"]
+}

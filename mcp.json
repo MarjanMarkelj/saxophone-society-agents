@@ -1,0 +1,13 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/mcp.schema.json",
+  "mcpServers": {
+    "saxsoc-public-info": {
+      "type": "streamable-http",
+      "url": "https://marjanmarkelj.de/wp-json/saxsoc/v1/mcp"
+    },
+    "saxsoc-booking": {
+      "type": "streamable-http",
+      "url": "https://marjanmarkelj.de/wp-json/saxsoc/v1/booking-mcp"
+    }
+  }
+}
