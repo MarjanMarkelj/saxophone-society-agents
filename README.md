@@ -25,6 +25,7 @@ The repository is also an [Agent Plugin](https://agent-plugins.org) (`plugin.jso
 | File | Purpose |
 | --- | --- |
 | [`AGENTS.md`](AGENTS.md) | Rules for coding agents that build on the API and MCP |
+| `CLAUDE.md`, `.cursorrules`, `.windsurfrules`, `.github/copilot-instructions.md` | The same rules for Claude Code, Cursor, Windsurf and GitHub Copilot |
 | [`skills/saxsoc-public-info/SKILL.md`](skills/saxsoc-public-info/SKILL.md) | Agent skill, identical to https://marjanmarkelj.de/SKILL.md |
 | [`plugin.json`](plugin.json), [`mcp.json`](mcp.json) | Agent Plugin manifest and MCP servers |
 | [`.mcp.json`](.mcp.json), [`.cursor/mcp.json`](.cursor/mcp.json) | MCP servers for Claude Code and Cursor |
